@@ -24,6 +24,6 @@
   ],
   "dependencies": {
     "blob-polyfill": "~1.0.20150320",
-    "file-saver": "1.2.0"
+    "file-saver": "RaphaelGurgel/FileSaver.js#^1.20150507.2"
   }
 }
