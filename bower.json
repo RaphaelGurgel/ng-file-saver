@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "blob-polyfill": "~1.0.20150320",
+    "blob-polyfill": "~1.0.20150320"
   }
 }
